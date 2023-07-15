@@ -37,7 +37,7 @@ nav {
   left: 0;
   width: 100%;
   padding: 28px 0;
-  background: #9ccbc0;
+  background: #5bc1de;
   z-index: 99999;
 }
 
@@ -96,7 +96,7 @@ nav .show-menu span {
 .top-content-text h1 span.top-content-text-big {
   font-family: "signikabold", sans-serif;
   font-size: 48px;
-  color: #9ccbc0;
+  color: #5bc1de;
   line-height: 52px;
 }
 
