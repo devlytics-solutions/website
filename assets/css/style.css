@@ -743,3 +743,8 @@ footer .footer-right {
   float: right;
   width: 670px;
 }
+
+.clients-container {
+  margin: 0 auto;
+  padding: 45px 0 70px 0;
+}
